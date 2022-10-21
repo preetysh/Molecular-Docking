@@ -3,4 +3,13 @@
 
 <sup> Here, a 3D structure of a SARS-CoV-2 protein sequence is constructed using Homology modeling and execute Molecular docking of the medicines against the protein molecule and deduce the protein- drug interaction, which is crucial in the drug development and screening process. Structural databases such as Protein Data Bank (PDB) as well online protein visualization and analysis tools such as  SWISS-MODEL, PyMOL, AutoDock Vina etc are used in this project. <sup/> 
 
-Receptor protein used here is 2ghv spike protein of Corona virus, whereas ligand or the drug used here for binding is  
+<sup> Receptor protein used here is 2ghv spike protein of Corona virus, whereas ligand or the drug used here is Chloroquine.<sup/>
+
+### Swiss-Model:
+
+<sup> Accessible through the Expasy web server or the software DeepView, SWISS-MODEL is a fully automated protein structure homology-modeling platform (Swiss Pdb-Viewer). All life science researchers across the world can use this site to access protein modelling. We can access the website here : [Swiss-Model]( https://swissmodel.expasy.org/). We can build the model of the required protein by uploading the target sequence file (Fasta sequence) through this. <sup/>
+
+### Protein Data Bank (PDB):
+
+<sup> We can also get the protein structure from PDB which is a database for the three-dimensional structural information of large biological molecules like proteins and nucleic acids. We can access the website here: [RCSB PDB](https://www.rcsb.org/) <sup/>
+
