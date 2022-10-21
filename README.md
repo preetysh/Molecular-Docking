@@ -1,0 +1,2 @@
+# Molecular-Docking
+<sup> The molecular docking method is used to simulate the atomic-level interaction between a small molecule and a protein, allowing us to define how small molecules behave in the binding site of our target proteins and to better understand basic biological processes. The docking procedure involves two fundamental steps: estimation of the binding affinity and prediction of the ligand structure, as well as its location and orientation inside these sites (often referred to as pose).  
