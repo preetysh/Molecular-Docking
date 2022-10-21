@@ -21,6 +21,9 @@
 
 #### Chloroquine
 <sup> Chloroquine is indicated to treat infections of _P. vivax_, _P. malariae_, _P. ovale_, and susceptible strains of _P. falciparum_. It is also used to treat extraintestinal amebiasis. Chloroquine is also used off label for the treatment of rheumatic diseases, as well as treatment and prophylaxis of Zika virus. Chloroquine is currently undergoing clinical trials for the treatment of COVID-19.
+
+#### Structure of Chloroquine:
+<sup> ![Chloroquine](https://github.com/preetysh/Molecular-Docking/blob/36ab48d1eba831fc90968d1fe7486dc0ef31c6be/Chloroquine_100.png)
   
 <sup> Homology modelling has emerged as a useful tool for the prediction of protein structures. The idea behind homology modelling, also known as comparative modelling, is that two homologous sequences produce protein structures that are comparable to one another. By using a homologous protein's template structure and sequence as building blocks, homology modelling creates an atomic-resolution model of the targeted protein. The quality of a homology model is determined by the template's quality and the degree of sequence similarity between the target protein and the template.
  
