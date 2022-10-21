@@ -13,3 +13,4 @@
 
 <sup> We can also get the protein structure from PDB which is a database for the three-dimensional structural information of large biological molecules like proteins and nucleic acids. We can access the website here: [RCSB PDB](https://www.rcsb.org/) <sup/>
 
+<sup> This is the structure of the 2ghv spike protein used for docking: [! 2ghv](https://github.com/preetysh/Molecular-Docking/blob/a3f090fd0e4fc9ed13873820194f98eb372473c7/2GHV.png) 
