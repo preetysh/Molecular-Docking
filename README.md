@@ -24,6 +24,8 @@
 
 #### Structure of Chloroquine:
 <sup> ![Chloroquine](https://github.com/preetysh/Molecular-Docking/blob/36ab48d1eba831fc90968d1fe7486dc0ef31c6be/Chloroquine_100.png)
+![Cq](https://github.com/preetysh/Molecular-Docking/blob/006f8995b5bf02e95e9fb199602ae1690656e86b/Chloroquine_182%C3%97100_3D_Conformer.png)
+###### (PubChem Database)
   
 <sup> Homology modelling has emerged as a useful tool for the prediction of protein structures. The idea behind homology modelling, also known as comparative modelling, is that two homologous sequences produce protein structures that are comparable to one another. By using a homologous protein's template structure and sequence as building blocks, homology modelling creates an atomic-resolution model of the targeted protein. The quality of a homology model is determined by the template's quality and the degree of sequence similarity between the target protein and the template.
  
@@ -71,8 +73,10 @@
   
   
 #### References:
-  
-##### 1. Yuan, S., Chan, H. S., & Hu, Z. (2017). Using PyMOL as a platform for computational drug design. Wiley Interdisciplinary Reviews: Computational Molecular Science, 7(2), e1298.
-##### 2. Robinson, S. W., Afzal, A. M., & Leader, D. P. (2014). Bioinformatics: Concepts, methods, and data. Handbook of Pharmacogenomics and stratified medicine, 259-287.
-##### 3. Forli, S., Huey, R., Pique, M. et al. Computational protein–ligand docking and virtual drug screening with the AutoDock suite. Nat Protoc 11, 905–919 (2016).
-##### 4. PubChem
+
+##### 1. Autodock, Center for Computational Biology.
+##### 2. Forli, S., Huey, R., Pique, M. et al. Computational protein–ligand docking and virtual drug screening with the AutoDock suite. Nat Protoc 11, 905–919 (2016).
+##### 3. PubChem
+##### 4. Robinson, S. W., Afzal, A. M., & Leader, D. P. (2014). Bioinformatics: Concepts, methods, and data. Handbook of Pharmacogenomics and stratified medicine, 259-287.
+##### 5. Shen, J., Zhang, W., Fang, H. et al. Homology modeling, molecular docking, and molecular dynamics simulations elucidated α-fetoprotein binding modes. BMC Bioinformatics 14 (Suppl 14), S6 (2013).
+##### 6. Yuan, S., Chan, H. S., & Hu, Z. (2017). Using PyMOL as a platform for computational drug design. Wiley Interdisciplinary Reviews: Computational Molecular Science, 7(2), e1298.
