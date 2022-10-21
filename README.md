@@ -43,7 +43,9 @@
 <sup> The aim of protein–ligand docking is to predict the location and orientation of a ligand in the binding pocket of a particular receptor.
   
 #### Autodock/VINA:
-<sup> AutoDock is a suite of automated docking tools. With the help of the Autodock/Vina plugin, users can define binding sites, export them to Autodock and VINA input files, automatically prepare receptors and ligands, run Autodock or VINA docking, view grid maps produced by autogrid in PyMOL, handle multiple ligands, and set up flexible sidechain docking, among other tasks.
+<sup> AutoDock is a suite of automated docking tools. With the help of the Autodock/Vina plugin, users can define binding sites, export them to Autodock and VINA input files, automatically prepare receptors and ligands, run Autodock or VINA docking, view grid maps produced by autogrid in PyMOL, handle multiple ligands, and set up flexible sidechain docking, among other tasks. Current distributions of AutoDock consist of two generations of software: AutoDock 4 and AutoDock Vina. AutoDock Vina does not require choosing atom types and pre-calculating grid maps for them. Instead, it calculates the grids internally, for the atom types that are needed, and it does this virtually instantly.
+
+![Autodock](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcurrentprotocols.onlinelibrary.wiley.com%2Fdoi%2F10.1002%2F0471250953.bi0814s24&psig=AOvVaw1FuA539o5Kw4ehHB8vdZSH&ust=1666464496693000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPCnoJz-8foCFQAAAAAdAAAAABAD)
   
   
   
@@ -59,4 +61,5 @@
   
 #### References:
   
-* Yuan, S., Chan, H. S., & Hu, Z. (2017). Using PyMOL as a platform for computational drug design. Wiley Interdisciplinary Reviews: Computational Molecular Science, 7(2), e1298.
+##### 1. Yuan, S., Chan, H. S., & Hu, Z. (2017). Using PyMOL as a platform for computational drug design. Wiley Interdisciplinary Reviews: Computational Molecular Science, 7(2), e1298.
+##### 2. Robinson, S. W., Afzal, A. M., & Leader, D. P. (2014). Bioinformatics: Concepts, methods, and data. Handbook of Pharmacogenomics and stratified medicine, 259-287.
