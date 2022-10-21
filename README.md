@@ -15,6 +15,12 @@
 
 #### Structure of the 2ghv spike protein:
 <sup> ![2ghv](https://github.com/preetysh/Molecular-Docking/blob/a3f090fd0e4fc9ed13873820194f98eb372473c7/2GHV.png) 
+
+### PubChem Database:
+<sup> PubChem is the world's largest collection of freely accessible chemical information. The drug used in this project for docking with the protein is taken from this database. The drug selected for docking with 2ghv spike protein is Chloroquine.
+
+#### Chloroquine
+<sup> Chloroquine is indicated to treat infections of _P. vivax_, _P. malariae_, _P. ovale_, and susceptible strains of _P. falciparum_. It is also used to treat extraintestinal amebiasis. Chloroquine is also used off label for the treatment of rheumatic diseases, as well as treatment and prophylaxis of Zika virus. Chloroquine is currently undergoing clinical trials for the treatment of COVID-19.
   
 <sup> Homology modelling has emerged as a useful tool for the prediction of protein structures. The idea behind homology modelling, also known as comparative modelling, is that two homologous sequences produce protein structures that are comparable to one another. By using a homologous protein's template structure and sequence as building blocks, homology modelling creates an atomic-resolution model of the targeted protein. The quality of a homology model is determined by the template's quality and the degree of sequence similarity between the target protein and the template.
  
@@ -45,7 +51,9 @@
 #### Autodock/VINA:
 <sup> AutoDock is a suite of automated docking tools. With the help of the Autodock/Vina plugin, users can define binding sites, export them to Autodock and VINA input files, automatically prepare receptors and ligands, run Autodock or VINA docking, view grid maps produced by autogrid in PyMOL, handle multiple ligands, and set up flexible sidechain docking, among other tasks. Current distributions of AutoDock consist of two generations of software: AutoDock 4 and AutoDock Vina. AutoDock Vina does not require choosing atom types and pre-calculating grid maps for them. Instead, it calculates the grids internally, for the atom types that are needed, and it does this virtually instantly.
 
-![Autodock]()
+##### Autodock Screenshot:
+![Autodock](https://github.com/preetysh/Molecular-Docking/blob/98733d6a1c5a3ded64dc2c249228a91a0add127a/Autodock.jpg)
+###### (Forli,S et.al; 2016)
   
   
   
@@ -63,3 +71,5 @@
   
 ##### 1. Yuan, S., Chan, H. S., & Hu, Z. (2017). Using PyMOL as a platform for computational drug design. Wiley Interdisciplinary Reviews: Computational Molecular Science, 7(2), e1298.
 ##### 2. Robinson, S. W., Afzal, A. M., & Leader, D. P. (2014). Bioinformatics: Concepts, methods, and data. Handbook of Pharmacogenomics and stratified medicine, 259-287.
+##### 3. Forli, S., Huey, R., Pique, M. et al. Computational protein–ligand docking and virtual drug screening with the AutoDock suite. Nat Protoc 11, 905–919 (2016).
+##### 4. PubChem
