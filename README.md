@@ -16,7 +16,7 @@
 #### Structure of the 2ghv spike protein:
 <sup> ![2ghv](https://github.com/preetysh/Molecular-Docking/blob/a3f090fd0e4fc9ed13873820194f98eb372473c7/2GHV.png) 
   
-<sup> Homology modelling has emerged as a useful tool for the prediction of protein structures. The idea behind homology modelling, also known as comparative modelling, is that two homologous sequences produce protein structures that are comparable to one another. By using a homologous protein's template structure and sequence as building blocks, homology modelling creates an atomic-resolution model of the targeted protein.     and sequeThe quality of a homology model is determined by the template's quality and the degree of sequence similarity between the target protein and the template.
+<sup> Homology modelling has emerged as a useful tool for the prediction of protein structures. The idea behind homology modelling, also known as comparative modelling, is that two homologous sequences produce protein structures that are comparable to one another. By using a homologous protein's template structure and sequence as building blocks, homology modelling creates an atomic-resolution model of the targeted protein. The quality of a homology model is determined by the template's quality and the degree of sequence similarity between the target protein and the template.
  
 ### PyMol:
 
