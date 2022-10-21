@@ -39,3 +39,24 @@
   
   
 ### Protein–Ligand Docking
+
+<sup> The aim of protein–ligand docking is to predict the location and orientation of a ligand in the binding pocket of a particular receptor.
+  
+#### Autodock/VINA:
+<sup> AutoDock is a suite of automated docking tools. With the help of the Autodock/Vina plugin, users can define binding sites, export them to Autodock and VINA input files, automatically prepare receptors and ligands, run Autodock or VINA docking, view grid maps produced by autogrid in PyMOL, handle multiple ligands, and set up flexible sidechain docking, among other tasks.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+#### References:
+  
+* Yuan, S., Chan, H. S., & Hu, Z. (2017). Using PyMOL as a platform for computational drug design. Wiley Interdisciplinary Reviews: Computational Molecular Science, 7(2), e1298.
