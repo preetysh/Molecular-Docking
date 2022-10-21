@@ -33,6 +33,9 @@
 
 <sup> PyMOL is a free and open-source molecular visualisation tool developed by Warren Lyford DeLano and sold at first by DeLano Scientific LLC.
 
+![PyMol](https://github.com/preetysh/Molecular-Docking/blob/3db5551604306b5483c17d075a39aa8f8e74455d/PyMol.png)
+###### (PyMOL by Schrödinger)
+
 #### Computer-Aided Drug Design (CADD)
 <sup> CADD involves small molecular preparation (such as generating the three-dimensional (3D) structure from a two-dimensional (2D) scheme, ligand conformation search, and energy minimization), homology modelling, protein preparation (such as pKa calculation, Asn, Gln, and His sidechain flipping, H-bond network optimization, and energy minimization), lead design (such as docking, design in situ, pharmacophore modelling, and VS), and molecular dynamics (MS).
 
@@ -61,22 +64,12 @@
 ###### (Forli,S et.al; 2016)
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 #### References:
 
 ##### 1. Autodock, Center for Computational Biology.
 ##### 2. Forli, S., Huey, R., Pique, M. et al. Computational protein–ligand docking and virtual drug screening with the AutoDock suite. Nat Protoc 11, 905–919 (2016).
 ##### 3. PubChem
-##### 4. Robinson, S. W., Afzal, A. M., & Leader, D. P. (2014). Bioinformatics: Concepts, methods, and data. Handbook of Pharmacogenomics and stratified medicine, 259-287.
-##### 5. Shen, J., Zhang, W., Fang, H. et al. Homology modeling, molecular docking, and molecular dynamics simulations elucidated α-fetoprotein binding modes. BMC Bioinformatics 14 (Suppl 14), S6 (2013).
-##### 6. Yuan, S., Chan, H. S., & Hu, Z. (2017). Using PyMOL as a platform for computational drug design. Wiley Interdisciplinary Reviews: Computational Molecular Science, 7(2), e1298.
+##### 4. PyMOL by Schrödinger
+##### 5. Robinson, S. W., Afzal, A. M., & Leader, D. P. (2014). Bioinformatics: Concepts, methods, and data. Handbook of Pharmacogenomics and stratified medicine, 259-287.
+##### 6. Shen, J., Zhang, W., Fang, H. et al. Homology modeling, molecular docking, and molecular dynamics simulations elucidated α-fetoprotein binding modes. BMC Bioinformatics 14 (Suppl 14), S6 (2013).
+##### 7. Yuan, S., Chan, H. S., & Hu, Z. (2017). Using PyMOL as a platform for computational drug design. Wiley Interdisciplinary Reviews: Computational Molecular Science, 7(2), e1298.
