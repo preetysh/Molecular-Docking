@@ -30,3 +30,12 @@
   
 #### Macromolecule Editing:
 <sup> PyMOL has the ability to modify a macromolecule, including altering the dihedral angles, building a peptide, replacing a residue, and more. With PyMOL's Builder toolkit, one can also quickly create a molecule from nothing. 
+
+#### Protein Preparation:
+<sup> Numerous defects may be detected in crystal structures and homology models, such as the incorrect conformation of Asn, Gln, and His, atom crashes, and the absence of pKa data. Therefore, protein preparation is a necessary step before performing any other molecular modelling work in order to acquire precise and trustworthy computational findings. This involves modifying the conformation/protonation state of the residues Asn, Gln, and His; fine-tuning the H-bond network; and energy minimization.
+  
+#### Ligand Preparation:
+<sup> Prior to doing any additional modelling activities in structure-based protein-ligand modelling, all ligands must be properly prepared with the correct 3D geometries, suitable bond ordering, accessible tautomer, and proper ionisation states.
+  
+  
+### Protein–Ligand Docking
